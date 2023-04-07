@@ -1,2 +1,2 @@
-# Test_repository
+# git_test
 My first repository
